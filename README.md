@@ -1,4 +1,4 @@
-<img src="img/banner.gif">
+<img src="img/banner.gif" width="100%" height="auto">
 <hr>
 
 <!--Social-->
