@@ -32,7 +32,7 @@
 </p>
 <img src="img/img.jpg" height="150px" style="float:left;margin-right:30px;">
 <br>
-<p align="center">
+<p align="center" style="float:right;">
    <img src="img/uni.png" width="15"/>   <em><b> Studying at Higher Institute of Technological Studies (ISETB)</b></em> <br/>
    <img src="img/h.png" width="15"/>   <em><b>Interested in painting and technology</b></em>
 </p>
