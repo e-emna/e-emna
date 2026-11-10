@@ -13,8 +13,8 @@
     <a href="https://instagram.com/douihech.emna" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?logo=instagram&logoColor=white" alt="Instagram Badge">
     </a>
-    <a href="https://linkedin.com/in/e-emna" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000" alt="Portfolio Badge">
     </a>
 </p>
 
@@ -24,18 +24,21 @@
 
 <p>
   <p>
-  Hi! <b><em>I'm Emma,</em></b> an IT student diving deep into software developing. <br> 
+  Hi! <b><em>I'm Emma,</em></b> an IT student diving deep into software developing. 
+  <br> 
   I like all about technology and enjoy building small projects that let me experiment with code, design and creativity.
 </p>
-
+<br>
 </p>
+<img src="img.jpg" height="150px" style="float:left;margin-right:30px;">
+<br>
 <p align="center">
    <img src="img/uni.png" width="15"/>   <em><b> Studying at Higher Institute of Technological Studies (ISETB)</b></em> <br/>
-   <img src="img/h.png" width="15"/>   <em><b>Interested in painting and technology</b></em><br/>
-
+   <img src="img/h.png" width="15"/>   <em><b>Interested in painting and technology</b></em>
 </p>
 
-<br/>
+<br>
+
 <br/>
 <!--Tools-->
 <h2 align="center"> <em> Technologies </em> </h2>
@@ -45,6 +48,7 @@
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -56,10 +60,13 @@
 
 <br>
 
-<h2 align="center"> <em> Stats </em> </h2>
-<img src="https://github-readme-stats.shion.dev/api?username=e-emna&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
-<img src="https://streak-stats.demolab.com/?user=e-emna&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak">
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=e-emna&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-
+<h2 align="center"><em>Stats</em></h2>
+<p align="left">
+    <img src="https://github-readme-stats.shion.dev/api?username=e-emna&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+    <br />
+    <img src="https://streak-stats.demolab.com/?user=e-emna&theme=midnight-purple&hide_border=true" alt="GitHub Streak Stats" />
+    <br />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=e-emna&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
