@@ -30,7 +30,7 @@
 </p>
 <br>
 </p>
-<img src="img.jpg" height="150px" style="float:left;margin-right:30px;">
+<img src="img/img.jpg" height="150px" style="float:left;margin-right:30px;">
 <br>
 <p align="center">
    <img src="img/uni.png" width="15"/>   <em><b> Studying at Higher Institute of Technological Studies (ISETB)</b></em> <br/>
